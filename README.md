@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Header Graphic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:36BCF7&height=200&section=header&text=Amna%20Shakir&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<!-- Banner Image -->
+<img src="./Gemini_Generated_Image_6u6spt6u6spt6u6s.jpeg" width="100%" alt="Amna Shakir Banner" />
 
 <!-- Dynamic Typing Banner -->
 <a href="https://git.io/typing-svg">
