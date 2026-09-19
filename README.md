@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Image -->
-<img src="./Gemini_Generated_Image_6u6spt6u6spt6u6s.jpeg" width="100%" alt="Amna Shakir Banner" />
+<!-- Header Banner Image -->
+<img src="./images/Gemini_Generated_Image_6u6spt6u6spt6u6s.jpeg" width="100%" alt="Amna Shakir Banner" />
 
 <!-- Dynamic Typing Banner -->
 <a href="https://git.io/typing-svg">
